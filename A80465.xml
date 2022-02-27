@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter of the taking of Leicester on Wednesday the 18th. of June, 1645. With the copie of the articles, and the manner of storming it the day before: a list of what was taken in Leicester, 14 peeces of ordnance, 30 colours, 200 armes, 500 horse, 50 barrels of gunpowder. And all their ammunition and provisions, of bagge and baggage. The Lord of Loughborough to goe to Ashby de la Zouch, and the rest of the officers and souldiers to Lichfield. The severall marches of the King since hee was routed, and his numbers, and how pursued by Sir John Gell, and 200 horse by him taken from the King. Brought from the army, and commanded to be forthwith printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80465</idno>
+            <idno type="STC">Wing C6131</idno>
+            <idno type="STC">Thomason E288_42</idno>
+            <idno type="STC">ESTC R200116</idno>
+            <idno type="EEBO-CITATION">99860920</idno>
+            <idno type="PROQUEST">99860920</idno>
+            <idno type="VID">113047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113047)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter of the taking of Leicester on Wednesday the 18th. of June, 1645. With the copie of the articles, and the manner of storming it the day before: a list of what was taken in Leicester, 14 peeces of ordnance, 30 colours, 200 armes, 500 horse, 50 barrels of gunpowder. And all their ammunition and provisions, of bagge and baggage. The Lord of Loughborough to goe to Ashby de la Zouch, and the rest of the officers and souldiers to Lichfield. The severall marches of the King since hee was routed, and his numbers, and how pursued by Sir John Gell, and 200 horse by him taken from the King. Brought from the army, and commanded to be forthwith printed and published.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Forcet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June ye 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113047:1" rendition="simple:additions"/>
+            <p>A Copie of a Letter of the taking of LEICESTER On <hi>Wedneſday</hi> the 18.<hi rend="sup">th</hi> of <hi>June,</hi> 1645.</p>
+            <p>With the Copie of the <hi>Articles,</hi> and the manner of Storming it the day before: <hi>A List of what was taken in</hi> LEICESTER,
+<list>
+                  <item>14 Peeces of Ordnance,</item>
+                  <item>30 Colours,</item>
+                  <item>200 Armes,</item>
+                  <item>500 Horſe,</item>
+                  <item>50 Barrels of Gun<g ref="char:EOLhyphen"/>powder.</item>
+               </list>
+            </p>
+            <p>And all their Ammunition and Proviſions, of Bagge and Baggage.</p>
+            <p>The Lord of <hi>Loughborough</hi> to goe to <hi>Aſhby de la Zouch,</hi> and the reſt of the Officers and Souldiers to <hi>Lichfield.</hi>
+            </p>
+            <p>The ſeverall marches<g ref="char:punc">▪</g> of the King ſince hee was Routed, and his numbers, and how purſued by Sir JOHN GELL, and 200 Horſe by him taken from the King.</p>
+            <p>Brought from the Army, and commanded to be forthwith Printed and Publiſhed.</p>
+            <p>
+               <add>June e<hi rend="sup">e</hi> 20<hi rend="sup">th</hi>
+               </add> LONDON, Printed by THO: FORCET, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:113047:2"/>
+            <head>An exact and perfect Relation of the manner of taking of LEICESTER, with the Treity and all the particulers con<g ref="char:EOLhyphen"/>cerning the ſame, certified by a Letter from an eminent perſon (there) of the Army.</head>
+            <opener>
+               <salute>Honoured SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the routing of the Kings Army, Sir <hi>John Gell</hi> gathered together all the forces of <hi>Derbiſhire, Notingham<g ref="char:EOLhyphen"/>ſhire,</hi> and the adjacent parts that hee could, and on Munday the 16. th of <hi>Iune,</hi> 1646. They met with ſome of the Kings horſe and tooke 200. And another party met with ſome of the <hi>Newarkers,</hi> and fell upon them, and routed them, tooke 60 Horſes, 42 Priſoners, and 80 Armes. The <hi>Scots</hi> wee heare are at <hi>Cheſterfield,</hi> and Sir <hi>William Brereton</hi> at <hi>Stafford</hi> marching this way.</p>
+            <pb n="3" facs="tcp:113047:2"/>
+            <p>On the ſaid Munday <hi>Iune</hi> the 16. Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> lay before <hi>Leiceſter</hi> and ſent in a Summons to the Towne, to require the Governour to ſurrender it to him for the uſe of the Parliament; and putting it to them to conſider how the King was routed, and ſhewing them what uſe they might make of that Clemency, with di<g ref="char:EOLhyphen"/>vers other very gallant expreſſions to the ſummons, to advertiſe them how much better it was for them to ſur<g ref="char:EOLhyphen"/>render then to force him to take it by ſtorming.</p>
+            <p>To this ſummons the Enemy ſent a negative An<g ref="char:EOLhyphen"/>ſwer, poſitively this, that they would not ſurrender it; whereupon Sir <hi>Thomas Fairfax</hi> called a Councell of Warre to conſult about the Storming of it, which was ſoon concluded on; that they ſhould prepare all things in readineſſe to round it the next day: which was done with all expedition not looſing any time.</p>
+            <p>So they fell preſently to raiſing of Batteries, and doing all things that were neceſſary for the ſtorming thereof according as they had appointed, and continued providing every thing that had appointed, and continued providing every thing that was requiſite for the doing thereof, to be in a readineſſe to batter it the next day, and ſent into the Country thereabouts for ſuch helpes as were neceſſary for the worke, which went on with great ſpeed both night and day; ſo deſirous wee are to have a ſpeedy end of the worke that there may be an end of theſe warres if poſſible.</p>
+            <p>On Tueſday the 17. th of <hi>June,</hi> wee drew downe our Ordnance and playd with our Pieces againſt the Towne, we ſtormed it playing with our Ordnance very hot on the <hi>Newarke</hi> ſide, which we conceived was their greateſt
+<pb n="3" facs="tcp:113047:3"/> ſtrength? And in ſhort time we made a breach in their workes, which ſtrucke ſuch a terror into the hearts of the Enemy, that the Governour ſent to us to deſtre a Parley, and offered to ſurrender upon very faire termes; as upon capitulation ſhould be agreed upon.</p>
+            <p>To this requeſt (Sir <hi>Thomas Fairfax</hi> being willing to ſave the ſpilling of innocent blood as much as may be) he aſſented: and promiſed ſpeedily to ſend in Com<g ref="char:EOLhyphen"/>miſſioners for the treaty, and called a Councell of warre and it was agreed that Collonel <hi>Pickering,</hi> and Collo<g ref="char:EOLhyphen"/>nel <hi>Reinſoorough</hi> ſhould go into <hi>Leicester</hi> to treat with the Governour about the ſurrendring the ſaid Garriſon to Sir <hi>Thomas Fairfax.</hi> And accordingly a ſafe conduct was deſired for them, which being ſent they went to Ca<g ref="char:EOLhyphen"/>pitulate with the Governour about the ſurrender there<g ref="char:EOLhyphen"/>of.</p>
+            <p>In the meane time Sit <hi>Thomas Farfax</hi> was not idle, nor did he looſe any time; but went on providing and furniſhing himſelfe with Pittars, Carts, Hay, Grana<g ref="char:EOLhyphen"/>does, Ladders, and all other things neceſſary for ſtorm<g ref="char:EOLhyphen"/>ing; reſolving to fall on at their returne, in caſe that they ſhould not agree, not knowing how things might fall out, during which time there was both great paynes and care taken by all in their places for the going on in the ſayd worke.</p>
+            <p>In the meane time we had Intelligence that the King was on Munday the 16 of <hi>Iune</hi> at <hi>Sheffield;</hi> that he came from <hi>Aſh by de la zouch</hi> thether with about 2000 horſe, or more, the day before, <hi>viz. Sunday</hi> night, and matched that morning (<hi>viz. Munday</hi> morning) to a
+<pb n="4" facs="tcp:113047:3"/> Randez vouſe neere <hi>Dudley</hi> Caſtle, where with the <hi>Lich<g ref="char:EOLhyphen"/>field,</hi> and <hi>Dudley</hi> horſe, and others that come in to their Randez-vouſes, the King had above 3000 horſe as is con<g ref="char:EOLhyphen"/>jectured by the Country people which ſaw them.</p>
+            <p>About 11 of the clocke on Munday morning, they marched from thence to <hi>Sturbridge,</hi> where he had ſome more Horſe came in, ſo that in all it is conceived that hee is nigh 4000. Divers of which hee hath been faine to rectuite with freſh Armes from <hi>Lichfield, Dudley,</hi> and other Garriſons the reabouts.</p>
+            <p>The King it is believed will for <hi>Worceſter,</hi> and there joyne with what Forces <hi>Gerhard</hi> can releeve him with, and ſome more Forces that hee lookes for out of the Weſt; but Collonel <hi>Gerhard</hi> hath met with a rout al<g ref="char:EOLhyphen"/>ſo in <hi>Shropſhire,</hi> where he loſt almoſt 400 men, by figh<g ref="char:EOLhyphen"/>ting with the Countrey forces, and the Governour of <hi>Worceſter</hi> was killed, and divers other Officers of note were ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, and taken.</p>
+            <p>All the reſt of that day, <hi>viz.</hi> Munday the 16 of <hi>Iune,</hi> our Commiſſioners were in Capitulation with the E<g ref="char:EOLhyphen"/>nemy in <hi>Leiceſter,</hi> and the Army went on preparing for a Storme, having no Anſwer that night, and looking for their returne the next Morning very earely, were re<g ref="char:EOLhyphen"/>ſolved to fall on if they had not agreed with the E<g ref="char:EOLhyphen"/>nemy.</p>
+            <p>On Wed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſday <hi>Iune</hi> the 18. about two of the clock, the Commiſſioners, <hi>viz.</hi> Collonel <hi>Reinsborough,</hi> and Collonel <hi>Pi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kering,</hi> returned with a Concluſion of the delivery of it up upon theſe Articles following.</p>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="6" facs="tcp:113047:4"/>
+            <head>The Articles for the ſurrender of the Towne and Garriſon of <hi>Leiceſter</hi> to Sir THOMAS FAIRFAX, for the uſe and ſervice of the Parliament, agreed on <hi>June</hi> the 18. th, 1646. Betweene Collonel PICKERING, and Collonel REINSDOROVGH.</head>
+            <list>
+               <item>1. THat the Lord <hi>Loughborough</hi> ſhall have quarter granted him, and have protection for his Perſon to be ſafely conveyed to the Garriſon of <hi>Aſhby de la Zouch.</hi>
+               </item>
+               <item>2 That all field Officers, Collonels, Lieutenant Collonels, Serjeants, Majors, and Captains, &amp; Lieutenants of Horſe, (but not of Foot) ſhall march away with their owne parti<g ref="char:EOLhyphen"/>cular ſingle horſe and armes, with protections for their owne perſons.</item>
+               <item>3 That all the reſt of the Officers ſhall be conveyed ſafely to the Garriſon of <hi>Lichfield</hi> with Staves only, and no other weapons in their hand.</item>
+               <item>4 That all common Souldiers have quarter onely for their lives, and be conveyed to <hi>Lichfield</hi> without any other weapons, ſave onely ſtaves in their hands.</item>
+               <item>5 That before 10 of the clocke the ſaid morning <hi>Iune</hi> the 18. the Governour of the Towne, and the Lord <hi>Lough<g ref="char:EOLhyphen"/>borough</hi> and all the reſt of the Officers, and Souldiers
+<pb n="7" facs="tcp:113047:4"/> march out of the Garriſon according to the agreement a<g ref="char:EOLhyphen"/>foreſaid.</item>
+               <item>6 That Sir <hi>Thomas Fairfax</hi> be permitted to enter in at 10 of the clock the ſaid <hi>Wedneſday</hi> morning aforeſaid, with his Forces, and take poſſeſsion of the Garriſon.</item>
+               <item>7 That all the Pieces of Canon, great and ſmall now in the Garriſon of <hi>Leiceſter,</hi> be l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft to Sir <hi>Thomas Fairfax.</hi>
+               </item>
+               <item>8 That all the Armes, and Ammunition now in <hi>Lei<g ref="char:EOLhyphen"/>ceſter</hi> be left to Sir <hi>Thomas Faitfax,</hi> ſave onely what is agreed to for the Officers of Horſe aforeſaid.</item>
+               <item>9 That all the Proviſions, Colours, Bag and Baggage be alſo left to Sir <hi>Thomas Fairfax.</hi>
+               </item>
+               <item>10 That all the Horſe (ſave onely thoſe excepted for the Officers aforeſaid) that are in the Garriſon of <hi>Leiceſter</hi> be delivered up to Sir <hi>Thomas Fairfax,</hi> for the ſervice of the Parliament.</item>
+               <item>11 That all the Officers and Souldiers have quarter for their lives.</item>
+               <item>12 That all the Priſoners of Warre that are in <hi>Leice<g ref="char:EOLhyphen"/>ſter</hi> at the ſame time, be releaſed and ſet free to ſerve the Parliament.</item>
+            </list>
+            <p>With theſe Articles the Commiſſioners returned to Sir <hi>Thomas Fairfax,</hi> certifying further how ioyfull that poore Towne of <hi>Leiceſter</hi> was at the hearing of the ſaid agreement, and that they ſhould be rid of the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>valiers.</p>
+            <p>Thus you ſee the Lord doth wonderfully for us, above the reach of m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns wiſdome. Truly we cannot but much admire the goodneſſe of Almighty God to us, in doing ſo great things for us, we cannot aſcribe it to any but to the hand of God Almighty, who is the Lord of Hoſts.</p>
+            <pb n="8" facs="tcp:113047:5"/>
+            <p>And it is to be admired to ſee the cariage of our Ge<g ref="char:EOLhyphen"/>nerall, and indeed all the Officers, how lovingly wee a<g ref="char:EOLhyphen"/>gree, how full of Courage all men are, both Officers and Souldiers when we are in array, what heavenly ex<g ref="char:EOLhyphen"/>preſſions, there is from all; and our Generall doth car<g ref="char:EOLhyphen"/>ry himſelfe in ſo excellent a manner that it rowſed up the Courage of all that ſee him; and the like alſo did Maior <hi>Skippon,</hi> who by reaſon of his wound could not be here in the taking of <hi>Leiceſter,</hi> but we hope that hee will recover; for in all Deſignes, by his wiſdome and Valour, his very name is a terrour to the Enemy.</p>
+            <p>
+               <list>
+                  <head>A Liſt of what was taken at <hi>Leiceſter.</hi>
+                  </head>
+                  <item>14 Pieces of Ordnance.</item>
+                  <item>30 Colours.</item>
+                  <item>2000 Armes.</item>
+                  <item>500 Horſe.</item>
+                  <item>50 Barrels of Gun- powder.</item>
+               </list>
+            </p>
+            <p>And all their Ammunition and Proviſions, with bagge and baggage.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
